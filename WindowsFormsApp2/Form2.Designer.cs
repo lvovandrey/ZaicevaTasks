@@ -42,14 +42,14 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(287, 266);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
-            this.Text = "Кнопочка";
+            this.Name = "Form2";
+            this.Text = "Это изменение внес Андрей";
             this.ResumeLayout(false);
 
         }
